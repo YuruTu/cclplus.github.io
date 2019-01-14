@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# 欢迎来到cclplus的主页
 
-You can use the [editor on GitHub](https://github.com/YuruTu/cclplus.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## cclplus的两句座右铭
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+&emsp;&emsp;君子生非异也，善假于物也。这句话出自《荀子 劝学》，也是我最喜欢的一句名言。在天赋上，高高在上的君子并非与常人有所不同；但他们善于借助外物。再强大的歌手也要依赖背景音乐和修音技术，再强大的舞者也要依赖那身华丽的舞服，再强大的工程师也要依赖强有力的编程技术和高效可靠的数学算法。
+&emsp;&emsp;<br>
+&emsp;&emsp;唯心相交，得以永恒。人与人之间的交往，只有依赖一颗真心。
 
-### Markdown
+## cclplus的状况
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+性别：男
+年龄：22周岁
+出身年月：1996年6月
+个人状况：单身
+职业：助理算法工程师
+兴趣爱好：看电影 听音乐 打游戏
+特长：数学建模 编程
+个人邮箱：707101557@qq.com
 
-```markdown
-Syntax highlighted code block
+## cclplus喜欢的女生类型
+&emsp;&emsp;性格狂野的女汉子；安静的外表下，有着一颗狂野的心。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YuruTu/cclplus.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
