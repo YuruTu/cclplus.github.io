@@ -17,6 +17,8 @@
 特长：数学建模 编程<br>
 个人邮箱：707101557@qq.com<br>
 
+## cclplus的动态
+&emsp;&emsp;2019年1月19日 蚁群算法提取图片轮廓（Python C++混合编程）https://github.com/YuruTu/Ant_colony 
+
 ## cclplus喜欢的女生类型
 &emsp;&emsp;性格狂野的女汉子；安静的外表下，有着一颗狂野的心。
-
