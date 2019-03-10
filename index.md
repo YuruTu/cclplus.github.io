@@ -18,7 +18,8 @@
 个人邮箱：707101557@qq.com<br>
 
 ## cclplus的动态
-&emsp;&emsp;2019年1月19日 蚁群算法提取图片轮廓（Python C++混合编程）https://github.com/YuruTu/Ant_colony 
+&emsp;&emsp;2019年1月19日 蚁群算法提取图片轮廓（Python C++混合编程）https://github.com/YuruTu/Ant_colony
+
 &emsp;&emsp;2019年3月9日 成为Python开发者https://blog.csdn.net/m0_37772174/article/details/88369969
 
 ## cclplus喜欢的女生类型
